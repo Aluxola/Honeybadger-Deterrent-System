@@ -2,14 +2,14 @@
 
 This repository contains the full implementation of a smart, modular system designed to assist in the **preservation of African penguin colonies** by detecting, identifying, and deterring predators—particularly honey badgers. The system combines:
 
-- 🧠 **Machine learning models** for predator identification,
-- 🔦 **PIR-based motion detection** with event logging,
-- 🔊 **Auditory and visual deterrent systems**, and
-- 🧰 Circuit schematics and deployment instructions for replication or extension.
+-  **Machine learning models** for predator identification,
+-  **PIR-based motion detection** with event logging,
+-  **Auditory and visual deterrent systems**, and
+-  Circuit schematics and deployment instructions for replication or extension.
 
 ---
 
-## 🎯 Project Goals
+## Project Goals
 
 This system was developed as part of the **EEE4113F Engineering Design** course at the University of Cape Town. It aims to:
 
@@ -21,7 +21,7 @@ This system was developed as part of the **EEE4113F Engineering Design** course 
 
 ---
 
-## 🧠 System Components
+##  System Components
 
 ### 1. Detection Subsystem (Motion Trigger)
 - Dual PIR sensors monitor **Zone A** and **Zone B**
