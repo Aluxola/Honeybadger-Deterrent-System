@@ -5,7 +5,7 @@
 const char* ssid = "DESKTOP-P0UCL71 1898";
 const char* password = "00000000";
 
-const char* serverURL = "https://flash-api-psmy.onrender.com/upload"; // Change this
+const char* serverURL = "https://flash-api-psmy.onrender.com/upload"; // Flask API url
 
 void startCamera() {
   camera_config_t config;
